@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="language">Velg et språk</string>
+    <string name="app_name">Bondesjakk</string>
+    <string name="norwegian">Norsk</string>
+    <string name="english">Engelsk</string>
+    <string name="numRounds">Antall runder</string>
+    <string name="startGame">Start Spillet</string>
+    <string name="action_settings">Innstillinger</string>
+    <string name="first_player">sin tur.</string>
+    <string name="turn_player_one">sin tur</string>
+    <string name="turn_player_two">sin turn</string>
+    <string name="result_tie">Det ble uavgjort!</string>
+    <string name="result_player_one_wins"> vant!</string>
+    <string name="result_player_two_wins"> vant!</string>
+    <string name="one">1</string>  <!--  Bare for å ha tall på knapper når du lager...-->
+    <string name="two">2</string> <!-- ...GUIen -->
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="info">Informasjon</string>
+    <string name="player_one">Spiller 1:  </string>
+    <string name="ties">Uavgjort:  </string>
+    <string name="player_two">Spiller 2:  </string>
+    <string name="about_info">Denne applikasjonen er laget av Håvard Moås.
+        Bondesjakk går ut på å få tre på rad,enten ved å sette tre brikker
+        i horisontal rettning, tre brikker i vertikal rettning eller tre brikker
+        på skrå av spillebrettet.
+        Du begynner spillet med å velge spillernavn og hvor mange runder du vil spille før
+    </string>
+    <string name="inputError">Du må skrive inn spillernavn og antall runder</string>
+    <string name="turn">Trekk: </string>
+</resources>
